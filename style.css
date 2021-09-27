@@ -1,7 +1,7 @@
 body {
   font-size: auto;
   font-family: 'Rubik', sans-serif;
-  background: url(img/blur.png) no-repeat center center fixed;
+  background: url(img/bg.png) no-repeat center center fixed;
   background-size: cover; 
 }
 h1 {
