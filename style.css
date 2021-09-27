@@ -1,0 +1,40 @@
+body {
+  font-size: auto;
+  font-family: 'Rubik', sans-serif;
+  background: url(img/blur.png) no-repeat center center fixed;
+  background-size: cover; 
+}
+h1 {
+  text-align: center;
+  font-weight: 1500;
+}
+
+h3{
+  text-shadow: 3px 3px 2px black;
+  text-align: right;
+  color: white
+}
+
+a {
+  font-weight: bold;
+  text-align: center;
+  margin: 2%;
+  display: inline-block;
+  width: 35%;
+  height: 40% auto;
+  background-color: #21fc80;
+  border-radius: 5px;
+  padding: 10px;
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  background-color: #21fcb3;
+}
+.discord {
+  color: white;
+  background-color: #4a3afc;
+}
+.discord:hover {
+  background-color: #3421ff;
+}
